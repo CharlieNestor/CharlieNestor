@@ -8,7 +8,7 @@
 
 ### Technical Skills 💻 
 
-- Proficient in Python, with experience in developing and implementing trading systems and predictive algorithms.
+- Proficient in Python, with working experience in developing and implementing trading systems and predictive algorithms.
 
 
 ### Currently Learning 🌱 
