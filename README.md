@@ -20,6 +20,7 @@
 
 - Algorithmic Trading
 - Portfolio Management
+- Statistics
 - Machine Learning
 - Deep Learning
 
