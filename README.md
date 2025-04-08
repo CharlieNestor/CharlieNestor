@@ -3,7 +3,7 @@
 
 🔹 A passionate Financial Analyst and Data Scientist with working experience in financial markets.
 
-🔹 Currently finalizing the MSc in Data Science and Business Analytics at Bocconi University.
+🔹 Currently finalizing the MSc in Data Science and Business Analytics at Bocconi University, Milan.
 
 
 ### Technical Skills 💻 
@@ -13,13 +13,13 @@
 
 ### Currently Learning 🌱 
 
-- Advanced techniques in Data Science and Machine Learning.
+- Advanced techniques in Machine Learning and Deep Learning.
 
 
 ### Interests 🎯 
 
+- Quantitative Analysis
 - Algorithmic Trading
-- Portfolio Management
 - Statistics
 - Machine Learning
 - Deep Learning
