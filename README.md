@@ -8,21 +8,25 @@
 
 ### Technical Skills 💻 
 
-- Proficient in Python, with working experience in developing and implementing trading systems and predictive algorithms.
+- Proficient in Python, with working experience in time-series analysis, development and implementation of trading systems and predictive algorithms.
 
 
 ### Currently Learning 🌱 
 
-- Advanced techniques in Machine Learning and Deep Learning.
+- Advanced techniques in Machine Learning and Reinforcement Learning.
+- Power and Gas Markets
 
 
 ### Interests 🎯 
 
 - Quantitative Analysis
+- Financial Markets
+- Energy Markets
 - Algorithmic Trading
 - Statistics
+- Optimization
 - Machine Learning
-- Deep Learning
+- Reinforcement Learning
 
 <!--
 **CharlieNestor/CharlieNestor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
