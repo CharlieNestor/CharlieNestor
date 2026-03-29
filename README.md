@@ -1,7 +1,7 @@
 ## Hi there 👋 Here is Carlo!
 
 
-🔹 A passionate Financial Analyst and Data Scientist with working experience in financial markets.
+🔹 A passionate Financial Analyst and Data Scientist with working experience in energy and financial markets.
 
 🔹 Currently finalizing the MSc in Data Science and Business Analytics at Bocconi University, Milan.
 
@@ -14,7 +14,7 @@
 ### Currently Learning 🌱 
 
 - Advanced techniques in Machine Learning and Reinforcement Learning.
-- Power and Gas Markets
+- Energy Markets (Power, Gas)
 
 
 ### Interests 🎯 
